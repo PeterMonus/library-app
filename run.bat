@@ -1,0 +1,1 @@
+mvn -Djetty.http.port=8081 jetty:run -e
